@@ -5,5 +5,3 @@
 - Aplicação de website de um restaurante moderno e responsivél feita em ReactJs
 
 ---
-
-
