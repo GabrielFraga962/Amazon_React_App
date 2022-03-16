@@ -53,5 +53,5 @@ To start the application interface just run `npm run dev` on the root dir.
 
 [![License](http://img.shields.io/:license-mit-green.svg?style=flat-square)](http://badges.mit-license.org)
 
-- **[MIT license](https://github.com/GabrielFraga962/Spotify_Api_Clone/blob/main/LICENSE)**;
+- **[MIT license](https://github.com/GabrielFraga962/Build_and_Deploy_a_Fully_Responsive_Restaurant_Website/blob/main/LICENSE)**;
 - Copyright 2022 © <a href="https://github.com/GabrielFraga962" target="_blank">Gabriel S. Fraga</a>.
