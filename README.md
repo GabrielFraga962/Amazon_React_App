@@ -8,8 +8,10 @@
 
 ## The project 🖼️
 
+<br>
+
 <p align="center">
-  <img src="https://i.imgur.com/q2BI1jp.png" alt="Gericht Restuarant" height="100" width="100"/>
+  <img src="https://i.imgur.com/q2BI1jp.png" alt="Gericht Restuarant" height="100%" width="100%"/>
 </p>
 
 
@@ -41,3 +43,11 @@ You can install the application using `npm install` or `yarn install` on the roo
 To start the application interface just run `npm run dev` on the root dir.
 
 <br>
+
+
+## License :memo:
+
+[![License](http://img.shields.io/:license-mit-green.svg?style=flat-square)](http://badges.mit-license.org)
+
+- **[MIT license](https://github.com/GabrielFraga962/Spotify_Api_Clone/blob/main/LICENSE)**;
+- Copyright 2022 © <a href="https://github.com/GabrielFraga962" target="_blank">Gabriel S. Fraga</a>.
