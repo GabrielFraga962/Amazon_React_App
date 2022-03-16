@@ -10,6 +10,10 @@
 
 <br>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/77b35ce7-6933-4ff4-85d4-4dc82650210f/deploy-status)](https://app.netlify.com/sites/gerichtrestaurantapp/deploys)
+
+[Deploy - Site](https://gerichtrestaurantapp.netlify.app/)
+
 <p align="center">
   <img src="https://i.imgur.com/q2BI1jp.png" alt="Gericht Restuarant" height="100%" width="100%"/>
 </p>
