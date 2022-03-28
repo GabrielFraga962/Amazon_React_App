@@ -48,7 +48,6 @@ To start the application interface just run `npm run dev` on the root dir.
 
 <br>
 
-
 ## License :memo:
 
 [![License](http://img.shields.io/:license-mit-green.svg?style=flat-square)](http://badges.mit-license.org)
